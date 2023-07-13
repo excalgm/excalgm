@@ -1,18 +1,18 @@
 <h2 align="center">
     <img src="assets/pepe.gif"><br>
-    <a href="https://github.com/excalgm"><img src="https://komarev.com/ghpvc/?username=excalgm"></a><br>
+    <a href="https://github.com/excalgm"><img src="https://komarev.com/ghpvc/?username=excalgm&label=Просмотры%20профиля"></a><br>
     Excal (excalgm)
 </h2>
 
-EN 🇺🇸, [RU 🇷🇺](README.ru.md)
+[EN 🇺🇸](README.md), RU 🇷🇺
 
-## 👨‍💻 About Me
- - I am a Junior Python 🐍 dev from Russia 🇷🇺
- - Writing Discord bots ⌨️
- - Wanna learn Java ☕ <i>(but I'm too lazy for that)</i>
- - My [Website](https://excal.ru) 🌐
+## 👨‍💻 Обо мне
+ - Я Junior Python 🐍 разработчик из России 🇷🇺
+ - Пишу Discord ботов ⌨️
+ - Хочу выучить Java ☕ <i>(но я слишком ленивый для этого)</i>
+ - Мой [Вебсайт](https://excal.ru) 🌐
 
-## 🛠️ Languages and Tools
+## 🛠️ Языки и инструменты
 [![Badge](https://img.shields.io/badge/ARCH%20LINUX-ff0000?color=black&style=for-the-badge&logo=archlinux)](https://archlinux.org)
 [![Badge](https://img.shields.io/badge/WINDOWS-ff0000?color=black&style=for-the-badge&logo=windows11&logoColor=blue)](https://windows.com)
 [![Badge](https://img.shields.io/badge/UBUNTU-ff0000?color=black&style=for-the-badge&logo=ubuntu)](https://ubuntu.com/server)
@@ -28,30 +28,30 @@ EN 🇺🇸, [RU 🇷🇺](README.ru.md)
 [![Badge](https://img.shields.io/badge/VSCODE-ff0000?color=black&style=for-the-badge&logo=visualstudiocode&logoColor=blue)](https://code.visualstudio.com)
 [![Badge](https://img.shields.io/badge/APACHE%20HTTP%20SERVER-ff0000?color=black&style=for-the-badge&logo=apache&logoColor=red)](https://httpd.apache.org)
 
-## 📱 My Socials
-*(Only on Russian)*  
+## 📱 Мои соц. сети
+*(Только на русском языке)*  
 [![Badge](https://img.shields.io/badge/DISCORD-ff0000?color=black&style=for-the-badge&logo=discord)](https://discord.com/users/428255552313884672)
 [![Badge](https://img.shields.io/badge/TELEGRAM-ff0000?color=black&style=for-the-badge&logo=telegram)](https://t.me/excalgm)
 [![Badge](https://img.shields.io/badge/TELEGRAM%20CHANNEL-ff0000?color=black&style=for-the-badge&logo=telegram)](https://t.me/excalgz)
 [![Badge](https://img.shields.io/badge/MASTODON-ff0000?color=black&style=for-the-badge&logo=mastodon)](https://mastodon.ml/@exc)
 
-[Other socials on my website](https://excal.ru)
+[Другие соц. сети на моём вебсайте](https://excal.ru)
 
-## 🏆 My Stats
+## 🏆 Моя статистика
 <details>
-<summary><b>Spotify Recently Played</b></summary>
+<summary><b>Недавно прослушано в Spotify</b></summary>
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=4j81xntqukvz0gznpdcape2wp)
 </details>
 
 <details>
-<summary><b>Discord Presence</b></summary>
+<summary><b>Статус Discord</b></summary>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/428255552313884672)](https://discord.com/users/428255552313884672)
+[![Discord Presence](https://lanyard.cnrad.dev/api/428255552313884672?idleMessage=Сейчас%20я%20ничего%20не%20делаю!)](https://discord.com/users/428255552313884672)
 </details>
 
 <details>
-<summary><b>GitHub Stats</b></summary>
+<summary><b>Статистика GitHub</b></summary>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=excalgm&show_icons=true&theme=github_dark)](https://github.com/excalgm)
 
@@ -61,7 +61,7 @@ EN 🇺🇸, [RU 🇷🇺](README.ru.md)
 </details>
 
 <details>
-<summary><b>WakaTime Stats</b></summary>
+<summary><b>Статистика WakaTime</b></summary>
 
 [![excalgm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=excalgm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
