@@ -1,6 +1,6 @@
 <h2 align="center">
     <img src="assets/pepe.gif"><br>
-    <a href="https://github.com/excalgm"><img src="https://komarev.com/ghpvc/?username=excalgm&label=Просмотры%20профиля"></a><br>
+    <a href="https://github.com/excalgm"><img src="https://komarev.com/ghpvc/?username=excalgm&label=Profile views"></a><br>
     Excal (excalgm)
 </h2>
 
