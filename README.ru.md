@@ -32,7 +32,7 @@
 *(Только на русском языке)*  
 [![Badge](https://img.shields.io/badge/DISCORD-ff0000?color=black&style=for-the-badge&logo=discord)](https://discord.com/users/428255552313884672)
 [![Badge](https://img.shields.io/badge/TELEGRAM-ff0000?color=black&style=for-the-badge&logo=telegram)](https://t.me/excalgm)
-[![Badge](https://img.shields.io/badge/TELEGRAM%20CHANNEL-ff0000?color=black&style=for-the-badge&logo=telegram)](https://t.me/excalgz)
+[![Badge](https://img.shields.io/badge/TELEGRAM%20CHANNEL-ff0000?color=black&style=for-the-badge&logo=telegram)](https://t.me/excalch)
 [![Badge](https://img.shields.io/badge/MASTODON-ff0000?color=black&style=for-the-badge&logo=mastodon)](https://mastodon.ml/@exc)
 
 [Другие соц. сети на моём вебсайте](https://excal.ru)
